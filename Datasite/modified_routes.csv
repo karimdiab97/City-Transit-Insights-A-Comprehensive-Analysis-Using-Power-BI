@@ -1,0 +1,11 @@
+RouteID,RouteName,StartLocation,EndLocation,TripFee,TakeOffTime,ArrivalTime
+1,Central Line,Downtown,Uptown,50,16:00:00,18:30:00
+2,East-West Express,Eastside,Westside,13,22:00:00,12:30:00
+3,North Circular,North Station,Circular Quay,31,18:00:00,16:30:00
+4,South Line,South Park,Old Town,29,08:00:00,22:30:00
+5,City Shuttle,City Center,City Hall,19,14:00:00,20:30:00
+6,Airport Express,Airport,Downtown,37,14:00:00,08:30:00
+7,University Line,University,Tech Park,19,14:00:00,08:30:00
+8,Market Line,Central Market,Farmers Market,18,22:00:00,16:30:00
+9,Beachfront Route,Beachside,Harbor Point,19,10:00:00,12:30:00
+10,Suburban Line,Suburbia,Downtown,33,14:00:00,10:30:00
