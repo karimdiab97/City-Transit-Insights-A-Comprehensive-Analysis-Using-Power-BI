@@ -45,7 +45,7 @@ Happy analyzing!
 # Images:
 
 ![image](https://github.com/karimdiab97/City-Transit-Insights-A-Comprehensive-Analysis-Using-Power-BI/assets/101432419/ba8ec322-d1a8-46c4-a335-f9667203f6c8)
-![image](https://github.com/karimdiab97/City-Transit-Insights-A-Comprehensive-Analysis-Using-Power-BI/assets/101432419/5d3d33b1-e5c9-47cb-9688-2f5eda5ec04e)
+![Slide3](https://github.com/karimdiab97/City-Transit-Insights-A-Comprehensive-Analysis-Using-Power-BI/assets/101432419/93d0a2fc-d70e-4c12-bb2b-05a652858964)
 ![image](https://github.com/karimdiab97/City-Transit-Insights-A-Comprehensive-Analysis-Using-Power-BI/assets/101432419/9a79bc14-b79d-437c-978c-b22254be4afa)
 ![image](https://github.com/karimdiab97/City-Transit-Insights-A-Comprehensive-Analysis-Using-Power-BI/assets/101432419/03a53994-7581-4a8d-9c45-a12c9f060497)
 
