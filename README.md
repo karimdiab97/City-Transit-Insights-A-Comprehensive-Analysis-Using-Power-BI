@@ -2,7 +2,8 @@
 
 # Urban Mobility Insights Dashboard
 
-Welcome to the Urban Mobility Insights Dashboard project! 🌟 This project offers valuable insights into public transportation dynamics, unveiling essential information about how cities move. From bus operations to passenger demographics, we've got you covered!
+I'm excited to introduce you to the Urban Mobility Insights Dashboard, a project I've just completed using Power BI. This dashboard offers a wealth of information about how cities move, presented in both dark and light modes for your convenience. Let's explore together! 🌟
+
 
 ## About the Dataset
 
